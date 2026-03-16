@@ -1,0 +1,31 @@
+body{
+font-family: Arial, sans-serif;
+}
+
+iframe{
+width:100%;
+height:250px;
+border:0;
+}
+
+.perfume-card{
+margin-bottom:20px;
+}
+
+.perfume-form{
+max-width:600px;
+margin:auto;
+background:#81deee;
+border:2px solid black;
+padding:20px;
+display:flex;
+flex-direction:column;
+gap:10px;
+}
+
+.buttons{
+display:flex;
+gap:10px;
+}
+
+
